@@ -1,0 +1,69 @@
+# オール・タイム・ロウ – The Other Side
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+November
+No trace of your perfume
+No evidence of you, no
+Remember
+My fingers in your hair
+The heat behind your stare
+I'm in the kitchen,
+rollin' at a party
+Deep in the canyon
+Dance with anybody
+That's when you walk in
+Holding onto someone new
+It kills me
+But we say, "Hello"
+Say, "Goodbye"
+And I swear
+I died a thousand times
+So, what's it like to reach
+the other side?
+Of letting go and moving on
+Don't know why it's taking me
+so long
+Oh, maybe you can tell me what
+it's like
+On the other side
+On the other side
+A cruel summer
+That spring was gone too soon
+'Fore the mess in June, oh
+I'm pulled under
+I thought the tides would change
+But now you're just a stranger
+I'm in the kitchen,
+rollin' at a party
+Deep in the canyon
+Dance with anybody
+That's when you walk in
+Holding onto someone new
+It kills me
+But we say, "Hello"
+Say, "Goodbye"
+And I swear
+I died a thousand times
+So, what's it like to reach
+the other side?
+Of letting go and moving on
+Don't know why it's taking me
+so long
+Oh, maybe you can tell me what
+it's like
+On the other side
+We say, "Hello"
+Say, "Goodbye"
+And I swear
+I died a thousand times
+So, what's it like to reach
+the other side?
+Of letting go and moving on
+Don't know why it's taking me
+so long
+Oh, maybe you can tell me what
+it's like
+On the other side
+```
