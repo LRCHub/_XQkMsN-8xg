@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "The Other Side",
+  "base_artist": "オール・タイム・ロウ",
+  "createdAt": "2026-02-08T13:55:23.984087Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Other Side (From \"Trolls World Tour\") [Oliver Heldens Remix]",
+      "artist": "SZA feat. Justin Timberlake & Oliver Heldens",
+      "has_synced": true,
+      "path": "select/01_The_Other_Side_(From__Trolls_World_Tour_)_[Oliver_Heldens_Remix]_SZA_feat._Justin_Timberlake_&_Oliver_Heldens.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Other Side Of The Door",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/02_The_Other_Side_Of_The_Door_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Other Side of Love",
+      "artist": "Yazoo",
+      "has_synced": false,
+      "path": "select/03_The_Other_Side_of_Love_Yazoo.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Other Side of Love (Remixed Extended Version)",
+      "artist": "Yazoo",
+      "has_synced": false,
+      "path": "select/04_The_Other_Side_of_Love_(Remixed_Extended_Version)_Yazoo.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Other Side Of Love (Re-Mixed Extended Version)",
+      "artist": "Yazoo",
+      "has_synced": false,
+      "path": "select/05_The_Other_Side_Of_Love_(Re-Mixed_Extended_Version)_Yazoo.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Other Side of Mt. Heart Attack",
+      "artist": "Liars",
+      "has_synced": true,
+      "path": "select/06_The_Other_Side_of_Mt._Heart_Attack_Liars.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Other Side of You",
+      "artist": "The Mighty Lemon Drops",
+      "has_synced": false,
+      "path": "select/07_The_Other_Side_of_You_The_Mighty_Lemon_Drops.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Other Side of You (Live)",
+      "artist": "The Mighty Lemon Drops",
+      "has_synced": false,
+      "path": "select/08_The_Other_Side_of_You_(Live)_The_Mighty_Lemon_Drops.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Other Side",
+      "artist": "Clannad",
+      "has_synced": false,
+      "path": "select/09_The_Other_Side_Clannad.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Other Side",
+      "artist": "The Proclaimers",
+      "has_synced": true,
+      "path": "select/10_The_Other_Side_The_Proclaimers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Imaginations From The Other Side",
+      "artist": "Blind Guardian",
+      "has_synced": true,
+      "path": "select/11_Imaginations_From_The_Other_Side_Blind_Guardian.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Other Side",
+      "artist": "Planet Funk",
+      "has_synced": true,
+      "path": "select/12_The_Other_Side_Planet_Funk.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Other Side",
+      "artist": "Aerosmith",
+      "has_synced": true,
+      "path": "select/13_The_Other_Side_Aerosmith.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Other Side",
+      "artist": "Drab Majesty",
+      "has_synced": true,
+      "path": "select/14_The_Other_Side_Drab_Majesty.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Other Side",
+      "artist": "All Time Low",
+      "has_synced": false,
+      "path": "select/pl_01_The_Other_Side_All_Time_Low.txt"
+    }
+  ]
+}
